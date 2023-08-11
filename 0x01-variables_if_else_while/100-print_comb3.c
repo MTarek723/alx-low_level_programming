@@ -18,7 +18,7 @@ if (y > x && x != y)
 {
 putchar(x + 48);
 putchar(y + 48);
-if (y +x != 17)
+if (y + x != 17)
 {
 putchar(44);
 putchar(32);
