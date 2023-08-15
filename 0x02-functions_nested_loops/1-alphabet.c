@@ -1,8 +1,6 @@
 #include "main.h"
 /**
-* alphabet function to print the alphabet in order from a to z with a new line at last
-*
-* 
+* print_alphabet - function to print alphabet in lower case 
 */
 void print_alphabet(void)
 {
