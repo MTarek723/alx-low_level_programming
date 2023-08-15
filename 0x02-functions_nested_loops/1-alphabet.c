@@ -1,4 +1,4 @@
-#include <"main.h">
+#include "main.h"
 /**
 * main - Entry point
 *
@@ -7,9 +7,9 @@
 void print_alphabet(void)
 {
 int a;
-for (a = 97; a <= 122; ++x)
+for (a = 97; a <= 122; ++a)
 {
-putchar(a);
-putchar('\n');
-return (0);
+_putchar(a);
+_putchar('\n');
+}
 }
