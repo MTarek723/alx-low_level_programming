@@ -19,5 +19,5 @@ while (s[f] > 0)
 	}
 	++f;
 }
-return 0;
+return (0);
 }
